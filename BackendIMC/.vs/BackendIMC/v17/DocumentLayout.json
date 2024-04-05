@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\database\\pacientedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\database\\pacientedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\entities\\pacienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\entities\\pacienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\services\\interfaces\\ipacienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\services\\interfaces\\ipacienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\dtos\\patiens\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\dtos\\patiens\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|c:\\users\\angel\\onedrive\\documentos\\clases i trimestre\\lenguajes de programacion\\unidad ii\\examen unidad ii\\backendimc\\backendimc\\services\\pacienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDAECD8-962A-4600-A8B7-833D38980A51}|BackendIMC\\BackendIMC.csproj|solutionrelative:backendimc\\services\\pacienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Startup.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Startup.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Startup.cs",
+              "RelativeToolTip": "BackendIMC\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:28:13.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BackendIMC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\appsettings.Development.json",
+              "RelativeToolTip": "BackendIMC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T04:25:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacienteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Entities\\PacienteEntity.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Entities\\PacienteEntity.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Entities\\PacienteEntity.cs",
+              "RelativeToolTip": "BackendIMC\\Entities\\PacienteEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:46:26.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\DataBase\\PacienteDbContext.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\DataBase\\PacienteDbContext.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\DataBase\\PacienteDbContext.cs",
+              "RelativeToolTip": "BackendIMC\\DataBase\\PacienteDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:59:17.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Program.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Program.cs",
+              "RelativeToolTip": "BackendIMC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:27:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "BackendIMC\\Controllers\\PacientesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:35:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BackendIMC\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:40:30.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPacienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Services\\Interfaces\\IPacienteServices.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Services\\Interfaces\\IPacienteServices.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Services\\Interfaces\\IPacienteServices.cs",
+              "RelativeToolTip": "BackendIMC\\Services\\Interfaces\\IPacienteServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:39:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Dtos\\Patiens\\PacienteDto.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Dtos\\Patiens\\PacienteDto.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Dtos\\Patiens\\PacienteDto.cs",
+              "RelativeToolTip": "BackendIMC\\Dtos\\Patiens\\PacienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:47:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Dtos\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Dtos\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Dtos\\ResponseDto.cs",
+              "RelativeToolTip": "BackendIMC\\Dtos\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:52:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Services\\PacienteServices.cs",
+              "RelativeDocumentMoniker": "BackendIMC\\Services\\PacienteServices.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Clases I Trimestre\\Lenguajes de programacion\\Unidad II\\Examen unidad II\\BackendIMC\\BackendIMC\\Services\\PacienteServices.cs",
+              "RelativeToolTip": "BackendIMC\\Services\\PacienteServices.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:39:29.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

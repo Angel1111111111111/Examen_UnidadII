@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sTKaM6gLgsfHw2kZd4V60KTgZdrSifeCjYBxkHOaQhw=",
+  "Source": "BackendIMC",
+  "BasePath": "_content/BackendIMC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
